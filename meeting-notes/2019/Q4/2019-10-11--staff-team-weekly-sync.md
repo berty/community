@@ -1,7 +1,10 @@
 
-## 2019-10-11
+# Staff Team Weekly Sync -- 2019-10-11
 
-### Tech
+**Meeting Lead**: None, it was a P2P meeting :)
+**Recording**: _hackmd.io note_
+
+### Tech :computer:
 
 * [@glouvigny] Implemented handshake on network + tests
 * [@glouvigny] Migrated the database (Gorm) utils (testing and migrations)
@@ -24,7 +27,7 @@
 * [@moul] Configured the repo to explicitly fail if building with bad go version https://github.com/berty/berty/pull/1411
 * [@moul] Used watch-tower to auto deploy new versions of yolo https://github.com/berty/staff/pull/884
 
-### Ops
+### Ops :cool:
 
 * [@alexsland] www.berty.tech website :
     * Continued @moul PR to display newsletter on blog : https://github.com/berty/www.berty.tech/pull/202 
