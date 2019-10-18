@@ -1,5 +1,4 @@
 
-
 # Staff Team Weekly Sync -- 2019-10-18
 
 **Meeting Lead**: None, it was a P2P meeting :)
@@ -35,7 +34,7 @@
   * Created new events: parisp2p#6 To parisp2p#9 on meetup.com and on p2p.paris https://github.com/francep2p/p2p.paris/pull/46
   * Created new event lyonp2p#0 on meetup.com
 * [@pierreboc] Integrated the previous newsletter on the website
-* [pierreboc] Added 2 new blogposts on the website
+* [@pierreboc] Added 2 new blogposts on the website
 
 
 ### Misc
