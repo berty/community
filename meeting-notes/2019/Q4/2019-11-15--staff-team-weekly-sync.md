@@ -10,7 +10,6 @@ Recording: hackmd.io note
 * [@gfanton] found the best approach w/ @aeddi to allow gomobile-ipfs to handle incoming and outgoing connections with a given peer using streams. We'll extend the CoreAPI with two endpoints:
    - One that registers a handler for a given protocolID that will return a Unix Domain Socket for any incoming connection
    - Another one that allows dialing a peerID and returns a Unix Domain Socket
-
 * [@gfanton] finished the main IPFS bridge class for gomobile-ipfs on iOS
 * [@gfanton] started generic stream on gomobile_ipfs, created sandbox test for stream, and started `/stream/setHandler/<protocolID>` endpoint
 * [@gponsinet] finshed JS lint configuration and CI tests
