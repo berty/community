@@ -29,7 +29,7 @@ Recording: hackmd.io note
 ### Ops :cool:
 
 * [@pierreboc] will publish another blog post: Are smartphones the best surveillance devices?
-* [@pierreboc] searched and asked for audits for Berty 
+* [@pierreboc] searched and asked for cryptography/security audits for Berty 
 
 
 ### Misc
