@@ -6,7 +6,7 @@ Recording: hackmd.io note
 
 ### Tech :computer:
 
-* [@Clemssss] continued with the SDTSModalComponent(Swipeable_Draggable_Toggleable_Scrollable_Modal Compoment), found a way to create a modulable component (going to create it next week).
+* [@Clemssss] continued with the SDTSModalComponent(Swipeable_Draggable_Toggleable_Scrollable_Modal Component), found a way to create a modulable component (going to create it next week).
 * [@n0izn0iz] migrated CI to buildkite, we now build way faster.
 * [@aeddi] worked on secret log implementation.
 * [@moul] totally cleaned up old CIs (GitHub actions & CircleCI) in favor of Buildkite (https://github.com/berty/berty/pull/1547, https://github.com/berty/berty/pull/1536).
