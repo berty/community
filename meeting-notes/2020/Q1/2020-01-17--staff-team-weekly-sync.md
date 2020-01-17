@@ -21,3 +21,4 @@ Recording: hackmd.io note
 ### Ops :cool:
 
 * [@aeddi] made a talk about the Berty Protocol during the P2P Festival #0 (~1 hour) https://p2p.paris/en/talks/introduction-ipfs-berty-protocol/
+* [@moul] made a talk about Open Source communities: https://p2p.paris/en/talks/join-contribute-open-source-projects/
