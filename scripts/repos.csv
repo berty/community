@@ -1,0 +1,15 @@
+name,clone_url
+assets,git@github.com:berty/assets
+berty,git@github.com:berty/berty
+ble-prototype-v1,git@github.com:berty/ble-prototype-v1
+ble-prototype-v2,git@github.com:berty/ble-prototype-v2
+community,git@github.com:berty/community
+go-ipfs-log,git@github.com:berty/go-ipfs-log
+go-orbit-db,git@github.com:berty/go-orbit-db
+gomobile-ipfs,git@github.com:ipfs-shipyard/gomobile-ipfs
+multipeer-connectivity-prototype,git@github.com:berty/multipeer-connectivity-prototype
+repo-template,git@github.com:berty/repo-template
+www.berty.tech,git@github.com:berty/www.berty.tech
+www.berty.tech-archive,git@github.com:berty/www.berty.tech-archive
+yolo,git@github.com:berty/yolo
+zero-push,git@github.com:berty/zero-push
