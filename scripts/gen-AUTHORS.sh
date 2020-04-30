@@ -15,7 +15,7 @@ main() {
         cat $mailmap >> .tmp/.mailmap
         echo >> .tmp/.mailmap
     done
-    cat ../.mailmap >> .tmp/.mailmap
+    cat ${GOPATH}/src/berty.tech/staff/.mailmap >> .tmp/.mailmap
     sort -u < .tmp/.mailmap > .tmp/.mailmap.tmp
     mv .tmp/.mailmap.tmp .tmp/.mailmap
 
@@ -23,6 +23,7 @@ main() {
     for repo in .tmp/clone-*; do
         (
             cd $repo
+            rm -f AUTHORS
             cp ../.mailmap .
             git log --format='%aN <%aE>' | LC_ALL=C.UTF-8 sort -uf >> AUTHORS
         )
