@@ -46,7 +46,7 @@ _TODO_
 
 ## Contribute
 
-![Contribute to Berty](https://assets.berty.tech/files/contribute--small.gif)
+![Contribute to Berty](https://assets.berty.tech/files/contribute-contribute_v2--Contribute-berty-ultra-light.gif)
 
 If you want to help out, please see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
