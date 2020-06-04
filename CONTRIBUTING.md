@@ -1,14 +1,11 @@
-![](https://i.imgur.com/ZwCkje3.gif)
+![](https://assets.berty.tech/files/contribute-contribute_v2--1_Contribute-berty-version-spatiale.gif)
 
-<p align="center"><b>
-  <a href="https://berty.tech">berty.tech</a> •
-  <a href="https://twitter.com/berty">Twitter</a> •
-  <a href="http://crpt.fyi/berty-discord">Discord</a> •
-  <a href="https://github.com/berty">GitHub</a>
-</b></p>
+[berty.tech](https://berty.tech) •
+[Twitter](https://twitter.com/berty) •
+[Discord](https://crpt.fyi/berty-discord) •
+[GitHub](https://github.com/berty)
 
 # Contributing Guidelines
-
 
 Do you want to help Berty? That's awesome! There are lots of ways of doing so. Here's a little comprehensive guide to get everything together more effectively! Please tell us if something is missing/incorrect. We would be happy to update and improve this document. 
 
@@ -24,11 +21,9 @@ At any time, community members are invited to:
 
 [TOC]
 
-
 ## The Berty Technologies Organization
 
 Berty Technologies is an NGO based in Paris, France. The main aim is to defend privacy and fight against censorship and surveillance. If these topics mean something to you, you are in the right place!
-
 
 1. `Berty Messenger`: An application that makes it possible to communicate anonymously and securely, with or without internet access.
 2. `Berty Protocol`: A new protocol for distributed and secure communication that can be used by anyone. 
@@ -43,7 +38,6 @@ Berty Technologies is an NGO based in Paris, France. The main aim is to defend p
 
 > Exhaustive list of all our repo: [Berty Organization](https://github.com/berty)
 > All our project (not only in our organization): [Berty Topics](https://github.com/topics/berty)
-
 
 ### Berty Documentation
 
@@ -118,7 +112,6 @@ Please provide as much information as you possibly can:
 
 If you want to hack Berty (and we'll be very happy if you do), check out the contribution code section of this page! 
 
-
 ### Translation [In Progress]
 
 We are currently looking for a way to support multiple languages on the Berty Website & App. Join the discussion: https://github.com/berty/berty/issues/1820
@@ -132,7 +125,6 @@ All discussions around the community are done on a dedicated [`berty/community`]
 Everyone is free to participate in discussions or to propose [new ideas](https://github.com/berty/community/issues/new).
 
 > If you want to discuss/chat with the Berty community, join us on Discord! 
-
 
 ## Code Contributions
 
@@ -196,8 +188,6 @@ Write clean code. Universally formatted code promotes ease of writing, reading, 
 
 Berty staff use built-in GitHub review systems and/or in comments like LGTM (looks good to me) on the code review to indicate acceptance.
 
-
-
 ## Certificate of Origin
 
 By contributing to this project, you agree to the [Developer Certificate of Origin (DCO)](DCO). This document was created by the Linux Kernel community and is a simple statement that you, as a contributor, have the legal right to make the contribution.
@@ -205,7 +195,6 @@ By contributing to this project, you agree to the [Developer Certificate of Orig
 In order to show your agreement with the DCO you should include at the end of commit message, the following line: `Signed-off-by: John Doe <john.doe@example.com>`, using your real name.
 
 This can be done easily using the [`-s`](https://github.com/git/git/blob/b2c150d3aa82f6583b9aadfecc5f8fa1c74aca09/Documentation/git-commit.txt#L154-L161) flag on the `git commit`.
-
 
 ### Small patch exception
 
@@ -224,7 +213,6 @@ In most cases:
 * Documentation falls under a Creative Commons — Attribution-ShareAlike 4.0 International License.
 
 > Feel free to contact the Berty staff if that's a concern.
-
 
 ## Authors
 
@@ -245,4 +233,3 @@ This document is based on:
 ## Appendix and FAQ
 
 > **Find this document incomplete?** Open an issue!
-
