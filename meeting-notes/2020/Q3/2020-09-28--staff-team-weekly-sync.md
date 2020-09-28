@@ -28,8 +28,6 @@
 ### Ops :cool:
 
 * [@pierreboc] worked on the Berty Manual for Beta Users with @Zooma
-    * https://www.notion.so/bertytech/How-to-join-Berty-Beta-Testers-Manual-061f5b667313441fb052c176f0f10699#f71801a1e0454891b5802795ba30a686
 * [@pierreboc] re-wrote Camille's blog post (closed beta)
-    * https://hackmd.io/4o0fIlsCQOOQF_5VuOAfhg
 * [@pierreboc] did comments on the tuto video
 * [@pierreboc] onboarded Inès and shared the feedback
