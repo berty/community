@@ -1,6 +1,6 @@
 # Berty - Gomobile IPFS SOW - #0
 
-This is our first reporting and follow-up email regarding the gomobile-ipfs SOW. 
+This is our first follow-up report regarding the gomobile-ipfs SOW. 
 
 Our first report is a bit special: we aim to release our beta version of the Berty app in the next few weeks. That being said, we just did a team meeting about gomobile-ipfs and we plan to do a gomobile-ipfs session next week. As a reminder, gomobile-ipfs is not integrated into Berty yet but our plan is to include it soon. 
 
@@ -13,9 +13,9 @@ In the meanwhile, we worked an various topics that are directly related to gomob
 - **IPFS without DHT:** in order to make testing/debugging easier, we extensively tested running ipfs without DHT, this allowed us to test various cases, but also to see that IPFS is not yet ready to be DHT-less, even for development
 - **Watermark:** we played with ipfs/libp2p configuration, and tried to find best values to run IPFS on mobile (custom watermark etc)
 
-All those things are not yet available in the gomobile-ipfs repo but will be integrated in a near future. Please, feel free to reach us if you need additionnal informations. 
+All those things are not yet available in the gomobile-ipfs repo but will be integrated in a near future. 
 
-We take profit of this email to thank Protocol Labs & IPFS for the confidence they have shown in us. The whole Berty team is very grateful and enthusiastic about this collaboration.
+We take profit of this report to thank Protocol Labs & IPFS for the confidence they have shown in us. The whole Berty team is very grateful and enthusiastic about this collaboration.
 
 Best,
 
