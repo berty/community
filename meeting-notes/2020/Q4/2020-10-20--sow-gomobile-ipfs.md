@@ -1,6 +1,6 @@
-# SOW Update #1 - Gomobile IPFS - 20 Oct
+# SOW Update - Gomobile IPFS - 20 Oct
 
-This is our second reporting and follow-up email regarding the gomobile-ipfs SOW. 
+This is our second follow-up report regarding the gomobile-ipfs SOW. 
 
 As we reported in our previous [report](https://github.com/berty/community/blob/master/meeting-notes/2020/Q4/2020-10-02--sow-gomobile-ipfs.md), we had an important meeting with one of our sponsors last week and therefore little time to devote to gomobile-ipfs. We, also, had announced that after this deadline we were going to look at what needs to be done and take time to plan future actions. 
 
