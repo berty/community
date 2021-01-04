@@ -26,5 +26,3 @@
 ### Misc
 
 * Happy New Year
-* [@camillesjoholm] is off until April. 
-
