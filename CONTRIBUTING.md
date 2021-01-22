@@ -112,11 +112,17 @@ Please provide as much information as you possibly can:
 
 If you want to hack Berty (and we'll be very happy if you do), check out the contribution code section of this page! 
 
-### Translation [In Progress]
+### Translation
 
-We are currently looking for a way to support multiple languages on the Berty Website & App. Join the discussion: https://github.com/berty/berty/issues/1820
+We use a translation platform called Crowdin to centralize the translations of the website and the Berty application. 
 
-### Community Involvment
+* https://translate.berty.community
+* [Read our blogpost dedicated on berty translation](https://berty.tech/blog/berty-translation)
+
+Help us spread Berty's message! 
+ 
+
+### Community Involvement
 
 We aim to have a growing and caring community. Everyone is welcomed! 
 
