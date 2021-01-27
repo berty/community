@@ -19,7 +19,7 @@ At any time, community members are invited to:
 
 ## Table of Contents
 
-[TOC]
+[ToC]
 
 ## The Berty Technologies Organization
 
