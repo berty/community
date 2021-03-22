@@ -19,7 +19,46 @@ At any time, community members are invited to:
 
 ## Table of Contents
 
-[ToC]
+## Table of Contents
+
+- [Contributing Guidelines](#contributing-guidelines)
+  - [Table of Contents](#table-of-contents)
+  - [Table of Contents](#table-of-contents-1)
+  - [The Berty Technologies Organization](#the-berty-technologies-organization)
+    - [Berty Repos](#berty-repos)
+    - [Berty Documentation](#berty-documentation)
+  - [Security Issues](#security-issues)
+  - [Community Guidelines](#community-guidelines)
+    - [Code of Conduct](#code-of-conduct)
+    - [Language](#language)
+    - [Community](#community)
+    - [Connected as Peers](#connected-as-peers)
+    - [Have a question?](#have-a-question)
+  - [Ways to contribute](#ways-to-contribute)
+    - [Quick Dive in!](#quick-dive-in)
+    - [Bug report](#bug-report)
+    - [Suggest a feature](#suggest-a-feature)
+    - [Hack Berty](#hack-berty)
+    - [Translation](#translation)
+    - [Community Involvement](#community-involvement)
+  - [Code Contributions](#code-contributions)
+    - [Workflow](#workflow)
+    - [Pull requests are always welcome](#pull-requests-are-always-welcome)
+    - [Commits](#commits)
+    - [Create issues...](#create-issues)
+    - [...but check for existing issues first!](#but-check-for-existing-issues-first)
+    - [Conventions](#conventions)
+      - [Go](#go)
+      - [JavaScript](#javascript)
+      - [Git](#git)
+    - [Use a Consistent Coding Style](#use-a-consistent-coding-style)
+    - [Merge approval](#merge-approval)
+  - [Certificate of Origin](#certificate-of-origin)
+    - [Small patch exception](#small-patch-exception)
+    - [License](#license)
+  - [Authors](#authors)
+  - [Credits](#credits)
+  - [Appendix and FAQ](#appendix-and-faq)
 
 ## The Berty Technologies Organization
 
