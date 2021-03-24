@@ -19,8 +19,6 @@ At any time, community members are invited to:
 
 ## Table of Contents
 
-## Table of Contents
-
 - [Contributing Guidelines](#contributing-guidelines)
   - [Table of Contents](#table-of-contents)
   - [Table of Contents](#table-of-contents-1)
