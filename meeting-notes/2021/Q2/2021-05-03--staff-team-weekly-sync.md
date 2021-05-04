@@ -30,7 +30,7 @@
 ### Ops :cool:
 
 
-* [@zôÖma] working on a [Public Roadmap Overview](https://www.notion.so/bertytech/Roadmap-Overview-ac1bd7c8f34c46248f4554147750424c)
+* [@zôÖma] working on a Public Roadmap Overview
 * [@zôÖma] working on Roadmap Naming&Design
 * [@zôÖma] multiple testing&review bugfix (sakul+clem) 
 * [@zôÖma] temporize discussions with audits companies to fit with plannings 
