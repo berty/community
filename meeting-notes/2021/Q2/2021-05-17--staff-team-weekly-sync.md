@@ -27,8 +27,8 @@
 ### Ops :cool:
 
 * [@zôÖma] Dobri back in town with onboarding animations
-* [@zôÖma] NFT animations v1.1 (now with Léa from Samouraï Coop) [WIP here](https://streamable.com/suy3ei) & [here](https://streamable.com/x07pz4)
-* [@zôÖma] Roadmap vision 90% _(was on pause)_ [link here](https://ibb.co/qn88tzr)
+* [@zôÖma] NFT animations v1.1 (now with Léa from Samouraï Coop)
+* [@zôÖma] Roadmap vision 90% _(was on pause)_ 
 * [@zôÖma] Replied to audits companies
 
 
