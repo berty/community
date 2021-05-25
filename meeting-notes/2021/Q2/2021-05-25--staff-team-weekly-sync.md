@@ -6,7 +6,6 @@
 
 * [@d4ryl00] Continued with Niki to stabilize connections
 * [@d4ryl00] Started to import my previous Android BLE driver into the demo app
-* [@glouvigny] Created a union of Berty Tech workers to go on strike, so no one will force us to wear masks #NO5G #NOLINKY #NOBILLGATESDANSLEMONBRAS #BIGARD2022
 * [@glouvigny] Continued to investigate slow messages, test is indeed slow using a non mocked network and datastore
 * [@clegirar] Android freezes are fixed with help of @aeddi (https://github.com/berty/berty/pull/3337)
     * react-native-v8 light
