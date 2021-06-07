@@ -6,7 +6,6 @@
 
 * [@d4ryl00] Helped Niki to stabilize the driver + implement connection limiter
 * [@d4ryl00] Continued to implement L2cap for data exchange on iOS
-* [@d4ryl00] Niki's last day with us
 * [@clegirar] Started to config Play Store alpha release with @aeddi
 * [@clegirar] Android mic record permission was not added in the manifest
     * Random crash on Android when we record
