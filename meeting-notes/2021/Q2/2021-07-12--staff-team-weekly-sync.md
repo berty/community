@@ -5,6 +5,7 @@
 ### Tech :computer:
 
 * [@aeddi] Made iOS build compatible with Apple Silicon simulator (arm64) and Catalyst (with the help of @gfanton): https://github.com/berty/berty/pull/3422
+* [@moul] feat: add BertyAccount.ImportWithProgress alternative endpoint (https://github.com/berty/berty/pull/3425)
 * [@clegirar] Finished and merged import/export account https://github.com/berty/berty/pull/3405
 * [@clegirar] Finished and merged onboarding without account https://github.com/berty/berty/pull/3410
 * [@clegirar] Define preset options https://github.com/berty/berty/pull/3428
