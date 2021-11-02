@@ -66,7 +66,7 @@ This repository falls under the Berty [Code of Conduct](https://github.com/berty
 
 ### Language
 
-We use english language to spread widely the project!
+We use the English language to spread widely the project!
 
 ### Membership
 
