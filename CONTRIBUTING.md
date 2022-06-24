@@ -13,7 +13,7 @@ At any time, community members are invited to:
 - ask any questions they have
 - report bugs 
 - contribute to long-term strategic discussions
-- suggest new features
+- request new features
 - increase the geographic reach of the community
 - raise awareness of privacy issues among the general public
 
@@ -35,7 +35,7 @@ At any time, community members are invited to:
   - [Ways to contribute](#ways-to-contribute)
     - [Quick Dive in!](#quick-dive-in)
     - [Bug report](#bug-report)
-    - [Suggest a feature](#suggest-a-feature)
+    - [Request a feature](#request-a-feature)
     - [Hack Berty](#hack-berty)
     - [Translation](#translation)
     - [Community Involvement](#community-involvement)
@@ -129,21 +129,13 @@ Please Contribute! Look at the available [issues](https://github.com/issues?q=is
 
 ### Bug report
 
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/berty/berty/issues/new). It's that easy! Don't forget to check if this has been reported before ([current `bug` labeled issues](https://github.com/berty/berty/issues?q=is%3Aissue+is%3Aopen+label%3Abug))
+We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/berty/berty/issues/new/choose) and choosing `Bug report`. It's that easy! Don't forget to check if this has been reported before ([current `bug` labeled issues](https://github.com/berty/berty/issues?q=is%3Aissue+is%3Aopen+label%3Abug))
 
+Please provide as much information as you possibly can by following the bug report template.
 
-Please provide as much information as you possibly can:
-* A quick summary and/or background
-* Steps to follow
-   * Be specific!
-   * Give sample code if you can.
-* What you expected would happen
-* What actually happens
-* Notes (possibly including why you think this might be happening, or stuff you tried that didn't work).
+### Request a feature
 
-### Suggest a feature
-
-[Open a new issue](https://github.com/berty/berty/issues/new).
+You can request a feature by [opening a new issue](https://github.com/berty/berty/issues/new/choose) and choosing `Feature request`. Don't forget to check if this feature has been requested before ([current `feature-request` labeled issues](https://github.com/berty/berty/issues?q=is%3Aissue+is%3Aopen+label%3A%22%3Arocket%3A+feature-request%22))
 
 ### Hack Berty
 
