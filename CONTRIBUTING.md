@@ -116,7 +116,7 @@ The development language is **English**. All comments and documentation should b
 
 ### Have a question?
 
-* Ask the community on [Discord](https://crpt.fyi/berty-discord)
+You can ask a question by [opening a new issue](https://github.com/berty/berty/issues/new/choose) and choosing `Question`. Don't forget to check if this question has been asked before ([current `question` labeled issues](https://github.com/berty/berty/issues?q=is%3Aissue+is%3Aopen+label%3Aquestion))
 
 ## Ways to contribute
 
